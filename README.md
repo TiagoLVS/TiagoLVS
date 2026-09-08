@@ -32,7 +32,8 @@ Criei este GitHub com o objetivo de registrar minha evolução na programação,
 
 <h3 align="center">🐍 Minhas contribuições</h3>
 
-<p align="center">
+<div align="center">
+
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
@@ -49,4 +50,5 @@ Criei este GitHub com o objetivo de registrar minha evolução na programação,
       alt="Snake animation"
     />
   </picture>
-</p>
+
+</div>
