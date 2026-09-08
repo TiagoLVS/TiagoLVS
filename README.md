@@ -45,8 +45,8 @@ Criei este GitHub com o objetivo de registrar minha evolução na programação,
     />
 
     <img
-      alt="Animação das contribuições do GitHub"
       src="https://raw.githubusercontent.com/TiagoLVS/TiagoLVS/output/github-contribution-grid-snake.svg"
+      alt="Snake animation"
     />
   </picture>
 </p>
