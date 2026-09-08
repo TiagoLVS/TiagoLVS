@@ -4,7 +4,7 @@
 
 Sou estudante de **Engenharia de Software** com interesse em desenvolvimento de software, banco de dados e novas tecnologias.
 
-Estou sempre em busca de conhecimento e quero deixar armazenado esse caminho que quero trilhar na área.
+Estou sempre em busca de conhecimento e quero deixar armazenado aqui esse caminho que quero trilhar na área.
 
 Criei este GitHub com o objetivo de registrar minha evolução na programação, organizar projetos acadêmicos e pessoais e colocar em prática os conhecimentos adquiridos durante meus estudos.
 
