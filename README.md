@@ -30,3 +30,23 @@ Criei este GitHub com o objetivo de registrar minha evolução na programação,
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
 </p>
 
+<h3 align="center">🐍 Minhas contribuições</h3>
+
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/TiagoLVS/TiagoLVS/output/github-contribution-grid-snake-dark.svg"
+    />
+
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/TiagoLVS/TiagoLVS/output/github-contribution-grid-snake.svg"
+    />
+
+    <img
+      alt="Animação das contribuições do GitHub"
+      src="https://raw.githubusercontent.com/TiagoLVS/TiagoLVS/output/github-contribution-grid-snake.svg"
+    />
+  </picture>
+</p>
