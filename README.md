@@ -8,7 +8,7 @@ Estou sempre em busca de conhecimento e quero deixar armazenado esse caminho que
 
 Criei este GitHub com o objetivo de registrar minha evolução na programação, organizar projetos acadêmicos e pessoais e colocar em prática os conhecimentos adquiridos durante meus estudos.
 
-<h3 align="center">Tecnologias que utilizo:</h3>
+<h3 align="center">💻 Tecnologias que utilizo</h3>
 
 <p align="center">
   <strong>Linguagens:</strong><br><br>
@@ -30,6 +30,14 @@ Criei este GitHub com o objetivo de registrar minha evolução na programação,
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
 </p>
 
+<h3 align="center">📊 Estatísticas</h3>
+
+<p align="center">
+  <img
+    src="https://gh-readme-profile.vercel.app/api?username=TiagoLVS&theme=transparent&title_color=ffffff&text_color=c9d1d9&icon_color=58a6ff&username_color=ffffff&hide_border=true"
+    alt="Estatísticas do GitHub"
+  />
+</p>
 <h3 align="center">🐍 Minhas contribuições</h3>
 
 <picture>
