@@ -1,6 +1,6 @@
-<h1 align="center">👋 Olá, eu sou o Tiago</h1>
+<h1 align="center">Olá, eu sou o Tiago</h1>
 
-<h3>✨ Sobre mim</h3>
+<h3>Sobre mim</h3>
 
 Sou estudante de **Engenharia de Software** com interesse em desenvolvimento de software, banco de dados e novas tecnologias.
 
@@ -8,7 +8,7 @@ Estou sempre em busca de conhecimento e quero deixar armazenado aqui esse caminh
 
 Criei este GitHub com o objetivo de registrar minha evolução na programação, organizar projetos acadêmicos e pessoais e colocar em prática os conhecimentos adquiridos durante meus estudos.
 
-<h3>💻 Tecnologias que utilizo</h3>
+<h3>Tecnologias que utilizo</h3>
 
 <p>
   <strong>Linguagens:</strong><br><br>
@@ -39,7 +39,7 @@ Criei este GitHub com o objetivo de registrar minha evolução na programação,
   />
 </p>
 
-<h3>🐍 Minhas contribuições</h3>
+<h3>Minhas contribuições</h3>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TiagoLVS/TiagoLVS/output/github-contribution-grid-snake-dark.svg" />
